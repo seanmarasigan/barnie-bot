@@ -1,6 +1,6 @@
 # Barnie - A Personalized Discord Chatbot  
 
-Barnie is a Simsimi-style chatbot that can be integrated into any Discord server. Unlike traditional bots, Barnie tracks individual user messages to create personalized responses and adapts based on past conversations.  
+Barnie is a Simsimi-style GenAI chatbot that can be integrated into any Discord server. Unlike traditional bots, Barnie tracks individual user messages to create personalized responses and adapts based on past conversations.  
 
 ## Features  
 
